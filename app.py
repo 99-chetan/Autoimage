@@ -26,10 +26,6 @@ def main():
     st.title("Fun with image")
     file=st.file_uploader("Upload an image")
     submit = st.button("Extract Text")
-    #more = st.button("More Operations")
-    #if more:
-        #slide=st.sidebar.write("""hi, slide""")
-
     #if submit:
         #st.write("Done!!")
         #slide=st.sidebar.write("""# Surprise""")
